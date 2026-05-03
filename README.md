@@ -5,43 +5,45 @@ Objetivo
 
 Construir um pipeline profissional de modelagem preditiva capaz de:
 
-otimizar hiperparâmetros
-comparar múltiplos modelos
-aplicar validação robusta
-interpretar decisões do modelo com SHAP
-Tecnologias Utilizadas
-Python
-Pandas
-Scikit-Learn
-XGBoost
-Optuna
-SHAP
-Matplotlib
-Seaborn
-Principais Técnicas Aplicadas
-Feature Engineering
-Random Forest
-Gradient Boosting
-XGBoost
-GridSearchCV
-RandomizedSearchCV
-Bayesian Optimization (Optuna)
-TimeSeriesSplit
-SHAP Explainability
-Avaliação
+- Otimizar hiperparâmetros
+- Comparar múltiplos modelos
+- Aplicar validação robusta
+- Interpretar decisões do modelo com SHAP
+
+Tecnologias Utilizadas:
+- Python
+- Pandas
+- Scikit-Learn
+- XGBoost
+- Optuna
+- SHAP
+- Matplotlib
+- Seaborn
+- Principais Técnicas Aplicadas
+- Feature Engineering
+- Random Forest
+- Gradient Boosting
+- XGBoost
+- GridSearchCV
+- RandomizedSearchCV
+- Bayesian Optimization (Optuna)
+- TimeSeriesSplit
+- SHAP Explainability
+- Avaliação
 
 Os modelos foram avaliados utilizando:
 
-MAE
-RMSE
-R² Score
-Cross Validation
-Diferenciais do Projeto
-Pipeline completo de Machine Learning
-Validação temporal robusta
-Tuning avançado de hiperparâmetros
-Interpretabilidade aplicada com SHAP
-Visualizações analíticas e comparativas
+- MAE
+- RMSE
+- R² Score
+- Cross Validation
+- Diferenciais do Projeto
+- Pipeline completo de Machine Learning
+- Validação temporal robusta
+- Tuning avançado de hiperparâmetros
+- Interpretabilidade aplicada com SHAP
+- Visualizações analíticas e comparativas
+
 Resultado
 
-O projeto demonstrou evolução significativa na construção de modelos preditivos mais robustos, interpretáveis e alinhados às práticas profissionais de Data Science.
+O projeto demonstrou evolução significativa na construção de modelos preditivos mais robustos, interpretáveis e alinhados às práticas profissionais de Machine Learning & Data Science.
